@@ -1,5 +1,5 @@
 # G-Croc
-G-Croc (Short for Garnet Croc) is a Croc GUI I developed in Python for the instructurally impared. 
+G-Croc (Short for Garnet Croc) is a Croc GUI I developed in Python for the instructionally impared. 
 
 I will be honest, aside from bursts of inspiration, this will probably never be updated unless I feel like it
 

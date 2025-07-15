@@ -11,3 +11,6 @@ If you are on Linux, take a the .py script, if you're on windows, take the .exe
 - Package the .exe with croc included
 - Make it look better
 - Download install location selector
+
+
+For any other documentation on Croc or similar, please refer to this: https://github.com/schollz/croc
